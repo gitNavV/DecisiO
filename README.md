@@ -1,6 +1,6 @@
 # DecisiO
 
-Welcome Fellas to our project DecisiO !
+Contributed with Java as an android developer to DecisiO, Hack-A-Bit which served as a daily life suggester based upon user’s past choices.
 
 Aim: To provide a personal suggester in form of an android app. This app initially has capabilities of suggesting 5 things, namely Food, Cloth, Activity to do, Music and Place to visit.
 
